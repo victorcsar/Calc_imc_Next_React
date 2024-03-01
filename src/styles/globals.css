@@ -3,3 +3,7 @@
 @tailwind utilities;
 
 
+.destaque{
+  background-color: brown;
+  color: white;
+}
